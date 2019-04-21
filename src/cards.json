@@ -1,0 +1,29 @@
+[{
+        "id": 0,
+        "name": "Fradicular",
+        "picture": "images/dragonred.jpg",
+        "attack": 1500,
+        "defense": 2000
+    },
+    {
+        "id": 1,
+        "name": "Panalacia",
+        "picture": "images/alacia.jpg",
+        "attack": 2000,
+        "defense": 1800
+    },
+    {
+        "id": 2,
+        "name": "Acicitra",
+        "picture": "images/firedragon.jpg",
+        "attack": 1000,
+        "defense": 3000
+    },
+    {
+        "id": 3,
+        "name": "Raidnieakstra",
+        "picture": "images/whitedragon.jpg",
+        "attack": 2000,
+        "defense": 1400
+    }
+]
